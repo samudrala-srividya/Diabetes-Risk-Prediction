@@ -40,7 +40,7 @@ Diabetes-Healthcare-Analytics/
 
 ## 📊 Dashboard Preview
 
-![Dashboard](dashboard/Diabetes_risk_prediction_dashboard.png)
+![Dashboard](dashboard/Diabetes_risk_prediction_dashboard.PNG)
 
 ---
 
